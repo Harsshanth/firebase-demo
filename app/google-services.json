@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1063891604413",
+    "firebase_url": "https://bmeproject-3a651-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "bmeproject-3a651",
+    "storage_bucket": "bmeproject-3a651.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1063891604413:android:c899c62d9ff27e623a38d4",
+        "android_client_info": {
+          "package_name": "com.example.bme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1063891604413-7ck11omgbj3q9jgejhcqat4hh472s2dq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7fw1DrJY0hCqlPsruqc0wKoFagsDEvWU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1063891604413-7ck11omgbj3q9jgejhcqat4hh472s2dq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
